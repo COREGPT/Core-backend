@@ -1,6 +1,7 @@
 {
   "name": "core-backend",
   "version": "1.0.0",
+  "description": "Backend for CORE chatbot",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -9,7 +10,6 @@
   "dependencies": {
     "express": "^4.18.2",
     "cors": "^2.8.5",
-    "body-parser": "^1.20.2",
-    "openai": "^4.18.0"
+    "body-parser": "^1.20.2"
   }
 }
